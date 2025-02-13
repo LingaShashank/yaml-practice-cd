@@ -1,0 +1,15 @@
+{
+  "name": "yaml-practice-cd",
+  "version": "1.0.0",
+  "description": "This repository is for practicing yaml integeration in Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
